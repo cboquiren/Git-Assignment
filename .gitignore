@@ -1,2 +1,4 @@
 #Files
 .env.local
+.env.production.local
+app.js
